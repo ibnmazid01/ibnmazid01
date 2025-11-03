@@ -1,58 +1,113 @@
-<!-- Profile header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&background=FFFFFF&center=true&vCenter=true&width=450&lines=Hi,+I'm+Ibnmazid;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
-</p>
+<!-- <h1 align="center">Hi 👋, I'm Sharafat</h1> -->
+<!-- <h3 align="center">A student from Bangladesh</h3> -->
 
-<p align="center">
-  <a href="https://github.com/Ibnmazid"><img src="https://img.shields.io/github/followers/Ibnmazid?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Contact-Email-blue.svg?" alt="Email"></a>
-  <!-- Add more social badges: LinkedIn, Stack Overflow, etc -->
-</p>
+<samp>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
+</samp>
+
+<samp>
+    <h3 align="center">I am <code><b>Md. Sharafat karim</b></code></h3>
+</samp>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Arch+Linux+%2B+KDE+plasma;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+
+<!-- Git Header SVG -->
+<p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
+
+<b>
+
+- 🐧 A Linux enthusiast
+- ❤️ I like open-source projects
+- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).
+- 🔥 Feel free to text me
+
+</b>
+
+<table align="center">
+      <tbody>
+        <tr>
+          <td style="text-align: center;"><a href="https://t.me/SharafatKarim" title="Telegram"
+              target="_blank"><img src="https://img.icons8.com/fluency/48/null/telegram-app.png"
+                alt="telegram" title="Telegram"></a><br>
+          </td>
+          <td style="text-align: center;"><a href="https://t.me/LinuxBangladesh" title="Linux Community (telegram)"
+              target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"
+                alt="Linux Community" title="Linux Community"></a><br>
+          </td>
+          <td><a href="mailto:sharafat2004@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/000000/mail.png"
+                alt="email" title="Email"></a><br>
+          </td>
+          <td><a href="https://facebook.com/m.sharafat.karim" title="Facebook" target="_blank"><img
+                src="https://img.icons8.com/fluency/48/000000/facebook-new.png"
+                alt="facebook" title="Facebook"></a><br>
+          </td>
+          <td><a href="https://m.me/m.sharafat.karim" title="Messenger" target="_blank"><img
+                src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/48/000000/external-messenger-social-media-prettycons-lineal-color-prettycons.png"
+                alt="messenger" title="Messenger"></a><br>
+          </td>
+          <td><a href="https://github.com/SharafatKarim" title="GitHub Profile"
+              target="_blank"><img src="https://img.icons8.com/color/48/null/github--v1.png"
+                alt="github" title="GitHub"></a><br>
+          </td>
+          <td style="text-align: center;"><a href="https://twitter.com/sharafat2004"
+              title="Twitter" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"
+                alt="twitter" title="Twitter"></a><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **cool projects**
-- 🌱 I’m currently learning **AI/ML, Web3**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Web Development, Python, or anything tech**
-- 📫 How to reach me: [your@email.com](mailto:your@email.com)
+<center>
+<a href="https://t.me/LinuxUniverse" title="Linux Community (telegram)" target="_blank">
+<img width="30%" alt="Share The Love of Linux" src="share-the-love.svg"/>
+</a>
+<a href="https://t.me/SharafatsNotes" title="Notes Collection (telegram)" target="_blank">
+<img width="20%" alt="Share The Love of Linux" src="note-s.svg"/>
+</a>
+<a href="https://t.me/LinuxHeadlines" title="LinuxHeadlines (telegram)" target="_blank">
+<img width="30%" alt="Share The Love of Linux" src="headlines.svg"/>
+</a>
+</center>
 
----
+<p><img width="28%" align="right" alt="Github Header" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
 
-## 🏆 GitHub Stats
+- 🏖️ Favourite things
+  - person = Muhammad ibn Abdullah (ﷺ)
+  - color = rgb(29-53, 191-233, 164-182)
+  - subject = something that is easy for me 😇
+  - website = maybe [this one](https://sharafat.pages.dev/) 😅
+  - operating system = Arch Linux
+  - desktop environment = kde plasma
+  - gtk or qt theme = qogir
+  - icon = papirus-nordic
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibnmazid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibnmazid&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibnmazid&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<details>
+<summary>
+  🎯 Click here for more STATS
+</summary>
 
----
+![](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/main/github-metrics.svg)
 
-## 🛠️ Languages and Tools
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharafatKarim&theme=github_dark)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-<!-- Add more badges as needed -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharafatKarim&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharafatKarim&theme=github_dark)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharafatKarim&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharafatKarim&theme=github_dark)
 
-## 📈 Visitor Count
+<!-- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=STATS&username=SharafatKarim" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=github_dark&hide_border=false&custom_title=LANGUAGES&username=SharafatKarim" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibnmazid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visitor Counter" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafatkarim&theme=tokyonight_duo&background=0d1117" alt="sharafatkarim" /></p> -->
 
----
+<!-- ![](https://github-profile-trophy.vercel.app/?username=sharafatkarim&no-bg=true&theme=onedark)       -->
 
-<!-- Optional: Fun GIFs or art -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZrYzBqOGQ3Y2lmNWFvM2Fqa2c2dmRtYTYzODg1cWhobWtybWs5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10hO3nQk7l6bXy/giphy.gif" height="150"/>
-</p>
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SharafatKarim&theme=github&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<!-- Feel free to decorate further! -->
+![GitHub Snake dark](https://raw.githubusercontent.com/SharafatKarim/SharafatKarim/output/github-contribution-grid-snake.svg)
+
+</details>
